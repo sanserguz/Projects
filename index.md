@@ -4,7 +4,7 @@ You can use the [Project](https://sanserguz.github.io/Projects/)
 
 # ESC 587
 
-  [Write-up](ESC_587_Project.pdf) for the project.ş
+  [Write-up](ESC_587_Project.pdf) for the project.
 
   [Here](ESC 587 model.stmx) is the Stella Architect model file.
 
