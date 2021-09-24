@@ -1,6 +1,6 @@
 ## Welcome
 
-You can use the [Project](https://sanserguz.github.io/Projects/) 
+Navigate back to [Main Page](https://sanserguz.github.io/main/) 
 
 # ESC 587
 
