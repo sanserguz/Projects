@@ -4,17 +4,17 @@
   Courses as part of graduate coursework at Boğaziçi University.
   
 ### ESC 587 - Systems and Sustainability (2020 Spring)
-Title: What’s land got to do with it? Exploring the potential of land- based carbon mitigation strategies in Turkey
-Instructor: Prof. Ali Kerem Saysel
-Project Description:
+**Title:** What’s land got to do with it? Exploring the potential of land- based carbon mitigation strategies in Turkey
+**Instructor:** Prof. Ali Kerem Saysel
+**Project Description:**
 
   [Research Write-up](ESC_587_Project.pdf)
 
   [STELLA Architect Model](ESC 587 model.stmx)
 
 ### IE 550 - Dynamics of Socio-economic Systems (2019 Spring)
-Title: Dynamic Modelling of Harmful Algal Blooms and an Analysis on Potential Mitigation Strategies
-Instructor: Prof. Yaman Barlas
+**Title:** Dynamic Modelling of Harmful Algal Blooms and an Analysis on Potential Mitigation Strategies
+**Instructor:** Prof. Yaman Barlas
 
 Project Description:
 
@@ -23,29 +23,29 @@ Project Description:
   [STELLA model](IE 550 model.STMX)
   
 ### IE 456 - Graph Algorithms and Applications (2020 Fall)
-Title: Algorithmic Efficiency of Random Graph Generation Algorithms for Given Degree Sequences
+**Title:** Algorithmic Efficiency of Random Graph Generation Algorithms for Given Degree Sequences
 
-Instructor: Assoc. Prof. Tınaz Ekim
+**Instructor:** Assoc. Prof. Tınaz Ekim
 
-Project Description:
+**Project Description:**
 
   [Project Report](IE 456 Project.pdf)
 
   [C++ Codes](IE 550 model.STMX)
 
 ### IE 582 - Statistical Learning for Data Mining (2019 Fall)
-Title: Prediction of Match Scores in English Premiere League using Data Mining Algorithms
-Instructor: Asst. Prof. Mustafa Baydoğan
+**Title:** Prediction of Match Scores in English Premiere League using Data Mining Algorithms
+**Instructor:** Asst. Prof. Mustafa Baydoğan
 
-Project Description:
+**Project Description:**
 
   [Project Report & Codes](IE 582 Project - Güz,İrsoy.html)
   
 ### IE 588 - Agent Based Modeling & Simulation (2019 Fall)
-Title: Analysis of False Information Diffusion under Different Network Topologies and Population Characteristics
+**Title:** Analysis of False Information Diffusion under Different Network Topologies and Population Characteristics
 
 Instructor: Assoc. Prof. Gönenç Yücel
 
-Project Description:
+**Project Description:**
 
   [Project Report](IE 588 Project.pdf)
