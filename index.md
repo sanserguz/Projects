@@ -1,6 +1,6 @@
-## Welcome
 
-Navigate back to [Main Page](https://sanserguz.github.io/main/) 
+# Navigate back to [Main Page](https://sanserguz.github.io/main/) 
+
 
 # ESC 587
 
