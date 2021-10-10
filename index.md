@@ -1,7 +1,8 @@
 
-## Navigate back to [Main Page](https://sanserguz.github.io/main/) 
-
-
+**Navigate back to [Main Page](https://sanserguz.github.io/main/) **
+  
+  
+  
 ## ESC 587 - Systems and Sustainability
 
   [Write-up](ESC_587_Project.pdf) for the project.
