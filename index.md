@@ -1,7 +1,7 @@
 
 ###         Navigate back to [Main Page](https://sanserguz.github.io/main/)
   
-  
+  Courses as part of graduate coursework at Boğaziçi University.
   
 ## ESC 587 - Systems and Sustainability (2020 Spring)
 Instructor: Prof. Ali Kerem Saysel
