@@ -3,7 +3,7 @@
   
   Courses as part of graduate coursework at Boğaziçi University.
   
-### ESC 587 - Systems and Sustainability (2020 Spring)
+### ESC 587 - Systems and Sustainability (2021 Spring)
 **Title:** What’s land got to do with it? Exploring the potential of land-based carbon mitigation strategies in Turkey <br>
 **Instructor:** Prof. Ali Kerem Saysel <br>
 **Project Description:** Employed System Dynamics methodology to analyze the dynamics of land-use changes, and to evaluate land's potential in carbon mitigation (like biofuel production, BECCS and forestation) in Turkey.
@@ -21,7 +21,7 @@
 
   [C++ Codes](https://github.com/sanserguz/projects/tree/main/IE%20456%20Project)
   
-### IE 550 - Dynamics of Socio-economic Systems (2019 Spring)
+### IE 550 - Dynamics of Socio-economic Systems (2020 Spring)
 **Title:** Dynamic Modelling of Harmful Algal Blooms and an Analysis on Potential Mitigation Strategies<br>
 **Instructor:** Prof. Yaman Barlas<br>
 **Project Description:** A dynamic simulation project to model the occurence of harmful algal blooms (HABs). System Dynamics method is employed to analyze the performances of potential remedies to this problem.
