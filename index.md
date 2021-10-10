@@ -5,6 +5,7 @@
   
 ## ESC 587 - Systems and Sustainability (2020 Spring)
 Instructor: Prof. Ali Kerem Saysel
+
 Project Description:
 
   [Research Write-up](ESC_587_Project.pdf)
@@ -13,6 +14,7 @@ Project Description:
 
 ## IE 550 - Dynamics of Socio-economic Systems (2019 Spring)
 Instructor: Prof. Yaman Barlas
+
 Project Description:
 
   [Project Report](IE 550 Final Project Report.pdf)
@@ -21,6 +23,7 @@ Project Description:
   
 ## IE 456 - Graph Algorithms and Applications (2020 Fall)
 Instructor: Assoc. Prof. Tınaz Ekim
+
 Project Description:
 
   [Project Report](IE 456 Project.pdf)
@@ -29,6 +32,7 @@ Project Description:
 
 ## IE 582 - Statistical Learning for Data Mining (2019 Fall)
 Instructor: Asst. Prof. Mustafa Baydoğan
+
 Project Description:
 
 
@@ -36,6 +40,7 @@ Project Description:
   
 ## IE 588 - Agent Based Modeling & Simulation (2019 Fall)
 Instructor: Assoc. Prof. Gönenç Yücel
+
 Project Description:
 
   [Project Report](IE 588 Project.pdf)
