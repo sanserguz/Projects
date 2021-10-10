@@ -8,7 +8,7 @@
 **Instructor:** Prof. Ali Kerem Saysel <br>
 **Project Description:** Employed System Dynamics methodology to analyze the dynamics of land-use changes, and to evaluate land's potential in carbon mitigation (like biofuel production, BECCS and forestation) in Turkey.
 
-  **[Research Write-up](ESC_587_Project.pdf)
+  **[Research Write-up](ESC_587_Project.pdf)**
 
   **[STELLA Architect Model](ESC 587 model.stmx)
   
