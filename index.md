@@ -5,12 +5,28 @@
   
 ## ESC 587 - Systems and Sustainability
 
-  [Write-up](ESC_587_Project.pdf) for the project.
+  [Research Write-up](ESC_587_Project.pdf)
 
-  [Here](ESC 587 model.stmx) is the Stella Architect model file.
+  [STELLA Architect Model](ESC 587 model.stmx)
 
 ## IE 550 - Dynamics of Socio-economic Systems
 
-  [Report](IE 550 Final Project Report.pdf) for the project.
+  [Project Report](IE 550 Final Project Report.pdf)
 
-  [Here](IE 550 model.STMX) is the Stella model file.
+  [STELLA model](IE 550 model.STMX)
+  
+## IE 456 - Graph Algorithms and Applications
+
+  [Project Report](IE 456 Project.pdf)
+
+  [STELLA model](IE 550 model.STMX)
+
+## IE 582 - Statistical Learning for Data Mining
+
+  [Project Report & Codes](IE 582 Project - Güz,İrsoy.html)
+  
+## IE 588 - Agent Based Modeling & Simulation
+
+  [Project Report](IE 456 Project.pdf)
+
+  [NetLogo model](IE  model.STMX)
