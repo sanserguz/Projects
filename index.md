@@ -4,7 +4,7 @@
   Courses as part of graduate coursework at Boğaziçi University.
   
 ### ESC 587 - Systems and Sustainability (2020 Spring)
-**Title:** What’s land got to do with it? Exploring the potential of land- based carbon mitigation strategies in Turkey
+**Title:** What’s land got to do with it? Exploring the potential of land- based carbon mitigation strategies in Turkey<br>
 **Instructor:** Prof. Ali Kerem Saysel
 **Project Description:**
 
