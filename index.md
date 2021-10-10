@@ -19,7 +19,7 @@
 
   [Project Report](IE 456 Project.pdf)
 
-  [STELLA model](IE 550 model.STMX)
+  [C++ Codes](IE 550 model.STMX)
 
 ## IE 582 - Statistical Learning for Data Mining
 
@@ -27,6 +27,4 @@
   
 ## IE 588 - Agent Based Modeling & Simulation
 
-  [Project Report](IE 456 Project.pdf)
-
-  [NetLogo model](IE  model.STMX)
+  [Project Report](IE 588 Project.pdf)
