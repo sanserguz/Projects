@@ -1,4 +1,3 @@
-## [Şanser Güz](https://sanserguz.github.io/main/) (they/them)
 ### Navigate back to [Main Page](https://sanserguz.github.io/main/)<br>
   
   Courses as part of graduate coursework at Boğaziçi University.
