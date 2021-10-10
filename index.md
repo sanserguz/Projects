@@ -19,7 +19,7 @@
 
   [Project Report](IE 456 Project.pdf)
 
-  [C++ Codes](IE 550 model.STMX)
+  [C++ Codes](https://github.com/sanserguz/projects/tree/main/IE%20456%20Project)
   
 ### IE 550 - Dynamics of Socio-economic Systems (2019 Spring)
 **Title:** Dynamic Modelling of Harmful Algal Blooms and an Analysis on Potential Mitigation Strategies<br>
