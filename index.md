@@ -34,7 +34,7 @@
 **Instructor:** Asst. Prof. Mustafa Baydoğan<br>
 **Project Description:** Several Data Mining algorithms (decision trees, random forest, LASSO etc.) are employed to predict match scores from historical data.
 
-  **[Project Report & Codes](https://sanserguz.github.io/main/IE582Project-GuzIrsoy.html)**
+  **[Project Report & Codes](https://sanserguz.github.io/projects/IE582Project-GuzIrsoy.html)**
   
 ### IE 588 - Agent Based Modeling & Simulation (2019 Fall)
 **Title:** Analysis of False Information Diffusion under Different Network Topologies and Population Characteristics<br>
