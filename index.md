@@ -1,4 +1,4 @@
-### Navigate back to [Main Page](https://sanserguz.github.io/main/)<br><br>
+### Navigate back to [Main Page](https://sanserguz.github.io/)<br><br>
   
   Courses as part of graduate coursework at Boğaziçi University.
   
